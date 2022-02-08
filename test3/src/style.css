@@ -1,0 +1,25 @@
+.alert {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: fixed;
+    max-width: 500px;
+    background-color: #4bf7a7;
+}
+
+.Input {
+    position: relative;
+    top: 2rem;
+    font-size: 21px;
+    border-bottom: 3px solid #fb4348;
+    max-width: fit-content;
+}
+
+.Output {
+    position: relative;
+    top: 2rem;
+    font-size: 21px;
+    border-bottom: 3px solid #fb4348;
+    max-width: fit-content;
+}
